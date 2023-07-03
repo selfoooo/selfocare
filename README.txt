@@ -1,19 +1,17 @@
 
 TITLE: 
-Neat - 100% Fully Responsive Free HTML5 Bootstrap Template
+selfocare
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by humaid
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+
 
 
 CREDITS:
 
 Bootstrap
-http://getbootstrap.com/
+http://selfocare.com/
 
 jQuery
 http://jquery.com/
